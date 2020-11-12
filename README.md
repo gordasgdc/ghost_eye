@@ -9,7 +9,7 @@ Ghost Eye poate funcționa cu orice distribuție Linux dacă acceptă Python 3.
 ****
 Aici puteți citi un articol pe care l-am scris despre Ghost Eye
 
-https://hackingpassion.com/getting-started-with-ghost-eye/
+https://ala-al-meu
 
 ****
 
@@ -33,7 +33,7 @@ https://hackingpassion.com/getting-started-with-ghost-eye/
 
   
 ** Demo video: vizionați pe Youtube:
-https://youtu.be/XCtWM-4ov2U
+https://sti-tu
 
 
 ## Instalați și rulați pe Linux
