@@ -59,7 +59,7 @@ După instalarea Etherape, uneori poate apărea o eroare GNOME, pentru care inst
     
     
 ## Instalează Ghost Eye:
-* clon git https://github.com/gordasgdc/ghost_eye
+* git clone https://github.com/gordasgdc/ghost_eye
 
 * cd ghost_eye
   
