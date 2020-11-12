@@ -73,13 +73,13 @@ După instalarea Etherape, uneori poate apărea o eroare GNOME, pentru care inst
 # Contactați coderul
 Rețele sociale - Conectați-vă
 
-* Website [HackingPassion.com] (https://hackingpassion.com)
+* Website [HackingPassion.com] (https://ala -al-meu.com)
 
-* [Facebook Personal] (https://www.facebook.com/jolandadekoff)
+* [Facebook Personal] (https://www.facebook.com/ala -al-meu)
 
-* [linkedin] (https://www.linkedin.com/in/jolandadekoff/)
+* [linkedin] (https://www.linkedin.com/ala -al-meu/)
 
-* [Youtube] (https://youtu.be/XCtWM-4ov2U)
+* [Youtube] (https://youtu.be/ala -al-meu)
 
 * [Pagina Facebook] 
 * [Grupul Facebook] 
@@ -95,8 +95,8 @@ Rețele sociale - Conectați-vă
 Am dezvoltat Ghost Eye pentru că sunt pasionat de acest lucru.
 Donațiile sunt una dintre multele modalități de a susține ceea ce fac.
 
-[Donați] (https://bullseye0.com/donate)
+[Donați] (https://sti-tu)
 
-BAT: Folosiți [Brave] (https://brave.com/bul891) și donați pe oricare dintre paginile / profilurile mele web
+BAT: Folosiți [Brave] (https://brave.com/b) și donați pe oricare dintre paginile / profilurile mele web
 
-[! [Donați] (https://img.shields.io/badge/Donate-PayPal-green.svg)] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id= R96YN2PUS8V8W)
+[! [Donați] (https://)
