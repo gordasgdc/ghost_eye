@@ -1,104 +1,102 @@
-# Ghost Eye
-Ghost Eye - Information Gathering Tool
+# Ochiul fantomă
+Ochiul fantomelor - instrument de colectare a informațiilor
 <div>
 
-Ghost Eye is an Information Gathering Tool I made in python 3. 
-To run Ghost Eye, it only needs a domain or ip.
-Ghost Eye can work with any Linux distros if they support Python 3.
+Ochiul fantomă este un instrument de colectare a informațiilor pe care l-am creat în Python 3.
+Pentru a rula Ghost Eye, are nevoie doar de un domeniu sau ip.
+Ghost Eye poate funcționa cu orice distribuție Linux dacă acceptă Python 3.
 
 ****
-Here you can read an article i wrote about Ghost Eye
+Aici puteți citi un articol pe care l-am scris despre Ghost Eye
 
 https://hackingpassion.com/getting-started-with-ghost-eye/
 
 ****
 
 
-## Ghost Eye gathers information data such as:
+## Ochiul fantomă colectează date de informații precum:
 
-1.   Whois Lookup
-2.   DNS Lookup
-3.   EtherApe
-4.   Nmap Port Scan
-5.   HTTP Header Grabber
-6.   Clickjacking Test
-7.   Robots.txt Scanner
-8.   Link Grabber
-9.   IP Location Finder
-10.  Traceroute
-11.  Have I been pwned
-12.  Exit
+1. Căutare Whois
+2. Căutare DNS
+3. EtherApe
+4. Scanare port Nmap
+5. Graber antet HTTP
+6. Clickjacking Test
+7. Scanerul Robots.txt
+8. Link Grabber
+9. Căutare locație IP
+10. Traceroute
+11. Am fost pwned
+12. Ieșiți
 
-![Screenshot](ghost-eye.png)
+! [Captură de ecran] (ghost-eye.png)
 
   
-**Video demo: Watch on Youtube:
+** Demo video: vizionați pe Youtube:
 https://youtu.be/XCtWM-4ov2U
 
 
-## Install and run on Linux
-You have to install Python 3 first:
+## Instalați și rulați pe Linux
+Mai întâi trebuie să instalați Python 3:
 <div>
   
-* Install Python 3 on Arch Linux and its distros: sudo pacman -S python3
-* Install Python 3 on Debian and its distros: sudo apt install python3
+* Instalați Python 3 pe Arch Linux și distribuțiile sale: sudo pacman -S python3
+* Instalați Python 3 pe Debian și distribuțiile sale: sudo apt install python3
 
  
  
-You have to install Nmap and EtherApe too:
+Trebuie să instalați și Nmap și EtherApe:
 
   
-* On Arch Linux and its distros: sudo pacman -S nmap etherape
+* Pe Arch Linux și distribuțiile sale: sudo pacman -S nmap etherape
 
   
-* On Debian and its distros: sudo apt install nmap etherape
+* Pe Debian și distribuțiile sale: sudo apt install nmap etherape
 
-After installing Etherape sometimes a GNOME error can occur, for which you install: (This will solve the common error)
+După instalarea Etherape, uneori poate apărea o eroare GNOME, pentru care instalați: (Aceasta va rezolva eroarea comună)
 * apt install libgnomeui-0: amd64
 
     
     
-## Install Ghost Eye:
-* git clone https://github.com/BullsEye0/ghost_eye.git
+## Instalează Ghost Eye:
+* clona git https://github.com/BullsEye0/ghost_eye.git
 
 * cd ghost_eye
   
 * pip3 install -r requirements.txt
 
   
-## Use:
+## Utilizare:
 * python3 ghost_eye.py
 
 
-# Contact to coder
-Social Networks - Connect
+# Contactați coderul
+Rețele sociale - Conectați-vă
 
-* Website [HackingPassion.com](https://hackingpassion.com)
+* Website [HackingPassion.com] (https://hackingpassion.com)
 
-* [Facebook Personal](https://www.facebook.com/jolandadekoff)
+* [Facebook Personal] (https://www.facebook.com/jolandadekoff)
 
-* [linkedin](https://www.linkedin.com/in/jolandadekoff/)
+* [linkedin] (https://www.linkedin.com/in/jolandadekoff/)
 
-* [Youtube](https://youtu.be/XCtWM-4ov2U)
+* [Youtube] (https://youtu.be/XCtWM-4ov2U)
 
-* [Facebook Page](https://www.facebook.com/ethical.hack.group)
-
-* [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
+* [Pagina Facebook] 
+* [Grupul Facebook] 
   
   
 
 
 ***
 
-## Donate
+## Donează
 
 
-I have developed Ghost Eye because I am passionate about this. 
-Donations are one of the many ways to support what I do.
+Am dezvoltat Ghost Eye pentru că sunt pasionat de acest lucru.
+Donațiile sunt una dintre multele modalități de a susține ceea ce fac.
 
-[Donate](https://bullseye0.com/donate)
+[Donați] (https://bullseye0.com/donate)
 
-BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
+BAT: Folosiți [Brave] (https://brave.com/bul891) și donați pe oricare dintre paginile / profilurile mele web
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
-
+[! [Donați] (https://img.shields.io/badge/Donate-PayPal-green.svg)] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id= R96YN2PUS8V8W)
